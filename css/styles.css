@@ -1,0 +1,128 @@
+body {
+  font-family: 'Montserrat';
+
+}
+
+#title {
+  background-color: #05a19c;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%  ;
+}
+
+.navbar {
+padding: 0 0 4.5rem;
+
+}
+
+.navbar-brand {
+   font-family: "Ubuntu";
+   /* //font-size: 1000px; */
+   font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-Light';
+  color: white;
+}
+
+/* font-family: 'Ubuntu', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Anton', sans-serif; */
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+h3 {
+ font-family: 'Anton';
+ font-size: 3.5rem;
+ /* //weight: 900px; */
+}
+
+p {
+  color: #464646
+}
+
+  /* Navigation Bar */
+
+.navbar-brand {
+     font-family: "Ubuntu";
+     font-size: 2.5rem;
+     font-weight: bold;
+
+  }
+
+.btn  {
+  /* padding: 10px 40px; */
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.PhoneImage {
+  width: 60%;
+  transform: rotate(15deg);
+  margin-left: 140px;
+  margin-bottom: 40px;
+}
+
+.fa-check-circle{
+  color: #ef8172;
+  font-size:  50px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.fa-bullseye {
+    color: #ef8172;
+    font-size:  50px;
+    margin-bottom: 20px;
+
+}
+
+.fa-heart{
+    color: #ef8172;
+    font-size:  50px;
+    margin-bottom: 20px;
+}
+
+.checkIcon{
+  text-align: center;
+  padding:  70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
+  margin: 10px;
+  position: block;
+}
+
+.pointIcon {
+  text-align: center;
+  padding:  70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
+  margin: 10px;
+  position: block;
+
+}
+
+.heartIcon {
+  text-align: center;
+  padding:  70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
+  margin: 10px;
+  position: block;
+
+}
